@@ -1,0 +1,9 @@
+MATCH01-GOAL-[Bruno Fernandes]-MIN:15
+MATCH01-GOAL-[Marcus Rashford]-MIN:45
+MATCH02-GOAL-[Bruno Fernandes]-MIN:88
+ERROR-NO-GOAL-RECORDED
+MATCH03-GOAL-[Alejandro Garnacho]-MIN:90
+MATCH03-GOAL-[Marcus Rashford]-MIN:12
+MATCH04-GOAL-[Rasmus Hojlund]-MIN:05
+SYSTEM-REBOOT-SUCCESS
+MATCH04-GOAL-[Marcus Rashford]-MIN:77
